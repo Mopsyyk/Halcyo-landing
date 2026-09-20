@@ -99,8 +99,8 @@ export default function PrivacyPage() {
       <h2>This website</h2>
       <p>
         This website is a set of static pages hosted on{" "}
-        <strong>Cloudflare Pages</strong>. We set no cookies of our own and run
-        no analytics. To deliver and protect the site, Cloudflare processes
+        <strong>Cloudflare</strong>. We set no cookies of our own and run no
+        analytics. To deliver and protect the site, Cloudflare processes
         technical data such as your IP address, user agent and request time, may
         keep standard access logs, and may set a strictly necessary security
         cookie. That processing is covered by the{" "}
